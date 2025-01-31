@@ -1,6 +1,6 @@
 > [!NOTE]
-> This is a fork if IPQow's lastfmnowplayingwidget with
-> some personalized changes. It includes an API key.
+> This is a fork of IPQow's lastfmnowplayingwidget with some personalized changes.  
+> `config.js` includes an API key. Just change the username part.
 
 ![Last.fm Now Playing Widget](https://github.com/IPQow/lastfmnowplayingwidget/blob/main/GitAssets/githubbannernp.png?raw=true)
 
