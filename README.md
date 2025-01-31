@@ -1,6 +1,6 @@
 > [!NOTICE]
 > This is a fork if IPQow's lastfmnowplayingwidget with
-> some personalized changes.
+> some personalized changes. It includes an API key.
 
 ![Last.fm Now Playing Widget](https://github.com/IPQow/lastfmnowplayingwidget/blob/main/GitAssets/githubbannernp.png?raw=true)
 
