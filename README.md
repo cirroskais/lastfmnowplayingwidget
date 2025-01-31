@@ -1,4 +1,4 @@
-> [!NOTICE]
+> [!NOTE]
 > This is a fork if IPQow's lastfmnowplayingwidget with
 > some personalized changes. It includes an API key.
 
